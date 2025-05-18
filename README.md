@@ -35,8 +35,8 @@
 
 ### ☕ Contact me
 
-- Facebook: [fb.com/quangdai.python](https://fb.com/quangdai.python) *(nếu có)*
-- Email: `example@gmail.com` *(thay bằng email của bạn)*
+- Facebook: None
+- Email: `dai1382009@gmail.com` *(thay bằng email của bạn)*
 
 ---
 
