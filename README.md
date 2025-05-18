@@ -36,8 +36,5 @@
 ### ☕ Contact me
 
 - Facebook: None
-- Email: `dai1382009@gmail.com` *(thay bằng email của bạn)*
-
----
-
+- Email: `dai1382009@gmail.com` 
 > 💡 *"Code là niềm vui, bug là thử thách!"*
