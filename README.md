@@ -2,7 +2,7 @@
 <h3 align="center">A high school student who loves coding ❤️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+Python,+Java,+and+C!;I+make+tools,+games,+and+apps.&center=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+Python;I+make+tools.&center=true&size=20">
 </p>
 
 ---
